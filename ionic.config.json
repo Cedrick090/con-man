@@ -1,0 +1,7 @@
+{
+  "name": "con-man",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
